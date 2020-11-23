@@ -1,0 +1,4 @@
+[10-Mar-2019 14:56:14 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chuqxnoo/public_html/awa/awa2/src/classes/dbc.php on line 31
+[10-Mar-2019 14:56:14 America/New_York] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home/chuqxnoo/public_html/awa/awa2/src/classes/dbc.php on line 35
+[10-Mar-2019 20:09:28 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chuqxnoo/public_html/awa/awa2/src/classes/dbc.php on line 31
+[10-Mar-2019 20:09:28 America/New_York] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home/chuqxnoo/public_html/awa/awa2/src/classes/dbc.php on line 35

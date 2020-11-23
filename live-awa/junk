@@ -1,0 +1,39 @@
+<tr>
+													<th>1</th>
+													<td>Socadist Second</td>
+		    										<td>Respect is the calipso....</td>
+		    										<td>3D mayer, Photoshop, Adobe Illustrator</td>
+													<td class="text-center">
+														<button class="btn btn-success btn-sm px-1 approveProject"><i class="fas fa-check"></i></button>
+														<button class="btn btn-danger btn-sm px-2 rejectProject"><i class="fas fa-times"></i></button>
+													</td>
+													<td class="d-flex justify-content-around border-0">
+														<a href="#" class="badge badge-primary preview-project"><i class="fas fa-link"></i> Preview</a>
+													</td>
+												</tr>
+												<tr>
+													<th>2</th>
+													<td>Socadist Second</td>
+		    										<td>Respect is the calipso....</td>
+		    										<td>Photoshop, Adobe Illustrator</td>
+													<td class="text-center">
+														<button class="btn btn-success btn-sm px-1 approveProject"><i class="fas fa-check"></i></button>
+														<button class="btn btn-danger btn-sm px-2 rejectProject"><i class="fas fa-times"></i></button>
+													</td>
+													<td class="d-flex justify-content-around border-0">
+														<a href="#" class="badge badge-primary preview-project"><i class="fas fa-link"></i> Preview</a>
+													</td>
+												</tr>
+												<tr>
+													<th>3</th>
+													<td>Socadist Second</td>
+		    										<td>Respect is the falling....</td>
+		    										<td>Adobe Illustrator, Photoshop</td>
+													<td class="text-center">
+														<button class="btn btn-success btn-sm px-1 approveProject"><i class="fas fa-check"></i></button>
+														<button class="btn btn-danger btn-sm px-2 rejectProject"><i class="fas fa-times"></i></button>
+													</td>
+													<td class="d-flex justify-content-around border-0">
+														<a href="#" class="badge badge-primary preview-project"><i class="fas fa-link"></i> Preview</a>
+													</td>
+												</tr>
